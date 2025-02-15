@@ -83,6 +83,7 @@ Aeolian, and Locrian.
 
 ### Drop D tuning
 
+```
 D | ---2---
 A | ---2---
 D | ---2---
@@ -125,7 +126,11 @@ G | ---5---
 B | ---0---
 e | ---0---
 
+```
+
 ### Standard tuning
+
+```
 
 E | ---x---
 A | ---4---
@@ -151,9 +156,11 @@ D | ---10--
 G | ---12--
 B | ---12--
 e | ---x---
+```
 
 ### Key: B Minor
 
+```
 E | ---x---
 A | ---10--
 D | ---9---
@@ -237,11 +244,16 @@ D | ---0---
 G | ---11p9
 B | ---x---
 e | ---x---
+```
 
 ### Key: G
 
+
+Chords from sac vineyard songs:
+
 G, G/B, G/C, G/D, Gadd9, Gsus2, Am, Am/G, Am7, B7, C, C/G, C/E, Csus2, Cm6, D, D/G, D5, D/F#, Dsus4, Dm7, Em, Em7, EbMaj7, F/G, F/A, 
 
+```
 G/B (1/3)
 
 E | ---7---
@@ -358,6 +370,7 @@ D | ---5---
 G | ---7---
 B | ---8---
 e | ---x---
+```
 
 ### Key: D
 
